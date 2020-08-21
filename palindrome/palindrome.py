@@ -10,7 +10,6 @@
 from linked_list import LinkedList
 
 def is_palindrome(ll):
-
     # define
     ll2 = ll.head
     stack = []
